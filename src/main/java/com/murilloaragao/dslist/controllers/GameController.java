@@ -2,7 +2,6 @@ package com.murilloaragao.dslist.controllers;
 
 import com.murilloaragao.dslist.dto.GameDTO;
 import com.murilloaragao.dslist.dto.GameMinDTO;
-import com.murilloaragao.dslist.entities.Game;
 import com.murilloaragao.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
